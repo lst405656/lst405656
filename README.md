@@ -49,8 +49,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visualstudiocode&logoColor=22ABF3" />&nbsp
 </div>
 <div align="center">
-	<p>📞 Contact Me 📞</p>
-	<a href="mailto:lst4056@gmail.com">
-		<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
+<p>📞 Contact Me 📞</p>
+  <a href="mailto:lst4056@gmail.com">
+	<img src="https://img.shields.io/badge/lst4056@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
